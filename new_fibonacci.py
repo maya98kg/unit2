@@ -11,8 +11,8 @@ def big_fibonacci(n):
     return f
 
 
-print(big_fibonacci(1))
-print(big_fibonacci(2))
-print(big_fibonacci(3))
-print(big_fibonacci(5))
-print(big_fibonacci(30))
+#print(big_fibonacci(1))
+#print(big_fibonacci(2))
+#print(big_fibonacci(3))
+#print(big_fibonacci(5))
+#print(big_fibonacci(30))
