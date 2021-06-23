@@ -8,7 +8,7 @@ class Triangle():
         return (self.a+self.b+self.c)
 
     def area(self):
-        s=(self.a+self.b+self.c)
+        s=(self.a+self.b+self.c)/2
         return sqrt(s*(s-self.a)*(s-self.b)*(s-self.c))
 
     def scale(self,scale_factor):
